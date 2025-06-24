@@ -1,1 +1,1 @@
-console.log('This is the React rendering script!');
+console.log('This is the React rendering script test!');
